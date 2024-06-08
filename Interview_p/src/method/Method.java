@@ -6,6 +6,7 @@ public class Method {
 		System.out.println("Hello Java");
 		System.out.println("Hi Neelima Test the test Branch");
 		System.out.println("Testing 1");
+		System.out.println("Testing 2");
 
 	}
 
